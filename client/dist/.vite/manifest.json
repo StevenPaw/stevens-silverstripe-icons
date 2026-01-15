@@ -1,0 +1,7 @@
+{
+  "client/src/bundles/bundle.scss": {
+    "file": "styles/bundle.css",
+    "isEntry": true,
+    "src": "client/src/bundles/bundle.scss"
+  }
+}

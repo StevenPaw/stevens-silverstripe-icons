@@ -1,0 +1,20 @@
+{
+    "name": "stevenpaw/stevens-silverstripe-icons",
+    "description": "Some more icons for SilverStripe Elemental",
+    "type": "silverstripe-vendormodule",
+    "keywords": [
+        "silverstripe",
+        "Icons",
+        "Elemental",
+        "Steven"
+    ],
+    "license": "BSD-3-Clause",
+    "require": {},
+    "extra": {
+        "expose": [
+            "client/dist"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
