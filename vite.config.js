@@ -25,7 +25,13 @@ export default defineConfig(({command}) => {
         output: {
           entryFileNames: `[name]`,
           chunkFileNames: `styles/[name]`,
-          assetFileNames: `styles/[name].[ext]`
+          assetFileNames: (assetInfo) => {
+            // Keep images/svg in the same directory structure
+            if (/\.(png|jpe?g|gif|svg|webp|avif)$/i.test(assetInfo.name)) {
+              return `styles/[name].[ext]`;
+            }
+            return `styles/[name].[ext]`;
+          }
         }
       },
     },

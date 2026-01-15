@@ -1,9 +1,23 @@
-.popover-option-set button.elemental-icon-verticalmedia::before,
-i.elemental-icon-verticalmedia {
+// Vertical Media Icon
+$verticalmedia-icon: url('../styles/verticalmedia.svg');
+.popover-option-set button.stevens-icon-verticalmedia::before,
+i.stevens-icon-verticalmedia {
     display: inline-block;
     width: 28px;
     height: 28px;
-    background: url('verticalmedia.svg');
+    background: $verticalmedia-icon;
+    content: "";
+    vertical-align: middle;
+}
+
+// Slider Icon
+$slider-icon: url('../styles/slider.svg');
+.popover-option-set button.stevens-icon-slider::before,
+i.stevens-icon-slider {
+    display: inline-block;
+    width: 28px;
+    height: 28px;
+    background: $slider-icon;
     content: "";
     vertical-align: middle;
 }

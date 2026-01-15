@@ -8,7 +8,7 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
     /**
      * @var string
      */
-    private static $icon = 'stevens-icon-alert';
+    private static $icon = 'stevens-icon-verticalmedia';
 ```
 
 
@@ -17,3 +17,4 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
 | Icon                                                                                                                                                                                                    | Name                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/verticalmedia.svg?sanitize=true" alt="verticalmedia" width="32" height="32">                       | `verticalmedia`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/slider.svg?sanitize=true" alt="slider" width="32" height="32">                       | `slider`            |
