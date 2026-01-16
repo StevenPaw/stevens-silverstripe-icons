@@ -1,23 +1,27 @@
-// Vertical Media Icon
-$verticalmedia-icon: url('../styles/verticalmedia.svg');
-.popover-option-set button.stevens-icon-verticalmedia::before,
-i.stevens-icon-verticalmedia {
-    display: inline-block;
-    width: 28px;
-    height: 28px;
-    background: $verticalmedia-icon;
-    content: "";
-    vertical-align: middle;
-}
+// Icons List - Füge hier einfach neue Icons hinzu
+$icons: (
+    'verticalmedia',
+    'slider',
+    'team',
+    'textimage',
+);
 
-// Slider Icon
-$slider-icon: url('../styles/slider.svg');
-.popover-option-set button.stevens-icon-slider::before,
-i.stevens-icon-slider {
-    display: inline-block;
-    width: 28px;
-    height: 28px;
-    background: $slider-icon;
-    content: "";
-    vertical-align: middle;
+// Icon Generator Loop
+@each $icon in $icons {
+    .popover-option-set button.stevens-icon-#{$icon}::before,
+    i.stevens-icon-#{$icon},
+    .menu__icon.stevens-icon-#{$icon} {
+        display: inline-block;
+        width: 28px;
+        height: 28px;
+        background: url('../styles/#{$icon}.svg');
+        content: "";
+        vertical-align: middle;
+    }
+
+    .menu__icon.stevens-icon-#{$icon} {
+        width: 19px;
+        height: 19px;
+        background-size: 19px 19px;
+    }
 }
