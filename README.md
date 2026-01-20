@@ -26,3 +26,4 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/table.svg?sanitize=true" alt="table" width="32" height="32">                       | `table`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/accordeon.svg?sanitize=true" alt="accordeon" width="32" height="32">                       | `accordeon`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/citationlist.svg?sanitize=true" alt="citationlist" width="32" height="32">                       | `citationlist`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/citation.svg?sanitize=true" alt="citation" width="32" height="32">                       | `citation`            |
