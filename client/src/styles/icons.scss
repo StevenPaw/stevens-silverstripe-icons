@@ -14,6 +14,7 @@ $icons: (
     'fullwidth',
     'calendar',
     'tutorial',
+    'person',
 );
 
 // Icon Generator Loop
@@ -21,11 +22,11 @@ $icons: (
     .popover-option-set button.stevens-icon-#{$icon}::before,
     i.stevens-icon-#{$icon},
     .menu__icon.stevens-icon-#{$icon} {
+        content: "";
         display: inline-block;
         width: 28px;
         height: 28px;
         background: url('../styles/#{$icon}.svg');
-        content: "";
         vertical-align: middle;
     }
 
