@@ -31,3 +31,5 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/calendar.svg?sanitize=true" alt="calendar" width="32" height="32">                       | `calendar`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/tutorial.svg?sanitize=true" alt="tutorial" width="32" height="32">                       | `tutorial`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/person.svg?sanitize=true" alt="person" width="32" height="32">                       | `person`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/horizontalmedia.svg?sanitize=true" alt="horizontalmedia" width="32" height="32">                       | `horizontalmedia`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/medialist.svg?sanitize=true" alt="medialist" width="32" height="32">                       | `medialist`            |
