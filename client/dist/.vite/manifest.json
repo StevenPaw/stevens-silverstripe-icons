@@ -3,5 +3,9 @@
     "file": "styles/bundle.css",
     "isEntry": true,
     "src": "client/src/bundles/bundle.scss"
+  },
+  "client/src/styles/medialist.svg": {
+    "file": "styles/medialist.svg",
+    "src": "client/src/styles/medialist.svg"
   }
 }
