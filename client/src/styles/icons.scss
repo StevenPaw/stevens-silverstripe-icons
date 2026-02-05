@@ -3,6 +3,8 @@ $icons: (
     'verticalmedia',
     'slider',
     'team',
+    'team-page',
+    'team-admin',
     'textimage',
     'hero',
     'calltoaction',
@@ -14,9 +16,14 @@ $icons: (
     'fullwidth',
     'calendar',
     'tutorial',
+    'tutorial-page',
+    'tutorial-admin',
     'person',
     'horizontalmedia',
-    'medialist'
+    'medialist',
+    'news',
+    'news-page',
+    'news-admin'
 );
 
 // Icon Generator Loop
@@ -36,5 +43,9 @@ $icons: (
         width: 19px;
         height: 19px;
         background-size: 19px 19px;
+    }
+
+    .record-icon.stevens-icon-#{$icon} {
+        background-image: url('../styles/#{$icon}.svg');
     }
 }

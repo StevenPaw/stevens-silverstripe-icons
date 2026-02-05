@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-1110.56,-2400.92)">
+        <g id="news-admin" transform="matrix(1,0,0,1,1110.56,2400.92)">
+            <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
+            <g transform="matrix(1.81828,0,0,8.52281,-2118.62,-11659.7)">
+                <path d="M1338.79,1375.56L1341.57,1375.56L1360.57,1379.61L1379.57,1375.56L1398.57,1379.61L1417.58,1375.56L1417.58,1419.23L1187.78,1419.23L1187.78,1375.67L1206.26,1379.61L1225.26,1375.56L1244.27,1379.61L1263.02,1375.61L1281.78,1379.61L1300.78,1375.56L1319.79,1379.61L1338.79,1375.56ZM1285.44,1395.94L1211.81,1395.94L1211.81,1414.7L1285.44,1414.7L1285.44,1395.94ZM1393.55,1403.01L1310.24,1403.01L1310.24,1407.64L1393.55,1407.64L1393.55,1403.01ZM1393.55,1395.94L1310.24,1395.94L1310.24,1400.57L1393.55,1400.57L1393.55,1395.94ZM1393.55,1384.36L1211.81,1384.36L1211.81,1391.56L1393.55,1391.56L1393.55,1384.36ZM1393.55,1410.08L1310.24,1410.08L1310.24,1414.7L1393.55,1414.7L1393.55,1410.08Z" style="fill:rgb(86,107,141);"/>
+            </g>
+        </g>
+    </g>
+</svg>
