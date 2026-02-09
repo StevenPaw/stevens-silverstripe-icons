@@ -8,6 +8,10 @@
     "file": "styles/medialist.svg",
     "src": "client/src/styles/medialist.svg"
   },
+  "client/src/styles/subpages.svg": {
+    "file": "styles/subpages.svg",
+    "src": "client/src/styles/subpages.svg"
+  },
   "client/src/styles/team-admin.svg": {
     "file": "styles/team-admin.svg",
     "src": "client/src/styles/team-admin.svg"

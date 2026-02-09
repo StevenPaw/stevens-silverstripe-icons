@@ -44,3 +44,7 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/news.svg?sanitize=true" alt="news" width="32" height="32">                       | `news`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/news-page.svg?sanitize=true" alt="news-page" width="32" height="32">                       | `news-page`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/news-admin.svg?sanitize=true" alt="news-admin" width="32" height="32">                       | `news-admin`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/subpages.svg?sanitize=true" alt="subpages" width="32" height="32">                       | `subpages`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/security.svg?sanitize=true" alt="security" width="32" height="32">                       | `security`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/box.svg?sanitize=true" alt="box" width="32" height="32">                       | `box`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/aperture.svg?sanitize=true" alt="aperture" width="32" height="32">                       | `aperture`            |
