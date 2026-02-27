@@ -53,3 +53,4 @@ To use, simply set the icon in the class using the `stevens-icon-` prefix:
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/institution.svg?sanitize=true" alt="institution" width="32" height="32">                       | `institution`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/institution-page.svg?sanitize=true" alt="institution-page" width="32" height="32">                       | `institution-page`            |
 | <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/institution-admin.svg?sanitize=true" alt="institution-admin" width="32" height="32">                       | `institution-admin`            |
+| <img src="https://github.com/StevenPaw/stevens-silverstripe-icons/blob/main/client/src/styles/teaser.svg?sanitize=true" alt="teaser" width="32" height="32">                       | `teaser`            |
