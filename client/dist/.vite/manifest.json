@@ -23,5 +23,9 @@
   "client/src/styles/team-page.svg": {
     "file": "styles/team-page.svg",
     "src": "client/src/styles/team-page.svg"
+  },
+  "client/src/styles/wordlist.svg": {
+    "file": "styles/wordlist.svg",
+    "src": "client/src/styles/wordlist.svg"
   }
 }
