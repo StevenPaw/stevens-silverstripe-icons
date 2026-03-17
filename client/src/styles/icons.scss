@@ -55,6 +55,16 @@ $icons: (
         background-size: 19px 19px;
     }
 
+    .menu__icon.stevens-icon-#{$icon}-currentColor {
+        width: 19px;
+        height: 19px;
+        background-size: 19px 19px;
+        mask-image: url('../styles/#{$icon}.svg');
+        mask-size: 100% 100%;
+        mask-repeat: no-repeat;
+        background-color: currentColor;
+    }
+
     .record-icon.stevens-icon-#{$icon} {
         background-image: url('../styles/#{$icon}.svg');
     }
