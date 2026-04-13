@@ -8,32 +8,8 @@
     "file": "styles/grid.svg",
     "src": "client/src/styles/grid.svg"
   },
-  "client/src/styles/listteaser.svg": {
-    "file": "styles/listteaser.svg",
-    "src": "client/src/styles/listteaser.svg"
-  },
   "client/src/styles/mediagrid.svg": {
     "file": "styles/mediagrid.svg",
     "src": "client/src/styles/mediagrid.svg"
-  },
-  "client/src/styles/medialist.svg": {
-    "file": "styles/medialist.svg",
-    "src": "client/src/styles/medialist.svg"
-  },
-  "client/src/styles/subpages.svg": {
-    "file": "styles/subpages.svg",
-    "src": "client/src/styles/subpages.svg"
-  },
-  "client/src/styles/team-admin.svg": {
-    "file": "styles/team-admin.svg",
-    "src": "client/src/styles/team-admin.svg"
-  },
-  "client/src/styles/team-page.svg": {
-    "file": "styles/team-page.svg",
-    "src": "client/src/styles/team-page.svg"
-  },
-  "client/src/styles/wordlist.svg": {
-    "file": "styles/wordlist.svg",
-    "src": "client/src/styles/wordlist.svg"
   }
 }
