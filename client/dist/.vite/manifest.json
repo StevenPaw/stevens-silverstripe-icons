@@ -4,9 +4,17 @@
     "isEntry": true,
     "src": "client/src/bundles/bundle.scss"
   },
+  "client/src/styles/grid.svg": {
+    "file": "styles/grid.svg",
+    "src": "client/src/styles/grid.svg"
+  },
   "client/src/styles/listteaser.svg": {
     "file": "styles/listteaser.svg",
     "src": "client/src/styles/listteaser.svg"
+  },
+  "client/src/styles/mediagrid.svg": {
+    "file": "styles/mediagrid.svg",
+    "src": "client/src/styles/mediagrid.svg"
   },
   "client/src/styles/medialist.svg": {
     "file": "styles/medialist.svg",
