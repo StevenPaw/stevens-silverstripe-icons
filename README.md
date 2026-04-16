@@ -1,4 +1,6 @@
-# stevens-silverstripe-icons
+# Stevens Silverstripe Icons
+
+This module adds a set of new icons to use in the Sivlerstripe CMS as Elemental Icons, Page Icons or Admin Icons.
 
 ## How to use
 
