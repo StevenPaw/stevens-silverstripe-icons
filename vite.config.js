@@ -12,7 +12,7 @@ export default defineConfig(({command}) => {
     },
     // base: (command === 'build') ? '/_resources/app/client/dist/' : '/', // TODO: .env variable, only on build
     base: './',
-    publicDir: 'app/client/public',
+    publicDir: false, // Icons werden nicht automatisch kopiert
     build: {
       // cssCodeSplit: false,
       outDir: './client/dist',
@@ -26,12 +26,13 @@ export default defineConfig(({command}) => {
           entryFileNames: `[name]`,
           chunkFileNames: `styles/[name]`,
           assetFileNames: (assetInfo) => {
-            // Keep images/svg in the same directory structure
-            if (/\.(png|jpe?g|gif|svg|webp|avif)$/i.test(assetInfo.name)) {
-              return `styles/[name].[ext]`;
-            }
+            // CSS-Dateien nach styles/
             return `styles/[name].[ext]`;
           }
+        },
+        external: (id) => {
+          // Ignoriere alle Icon-Referenzen - werden zur Runtime geladen
+          return id.includes('/icons/') && id.endsWith('.svg');
         }
       },
     },

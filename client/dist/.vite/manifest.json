@@ -63,5 +63,13 @@
   "client/src/icons/team-page.svg": {
     "file": "styles/team-page.svg",
     "src": "client/src/icons/team-page.svg"
+  },
+  "client/src/icons/virtual-element.svg": {
+    "file": "styles/virtual-element.svg",
+    "src": "client/src/icons/virtual-element.svg"
+  },
+  "client/src/icons/virtual-page.svg": {
+    "file": "styles/virtual-page.svg",
+    "src": "client/src/icons/virtual-page.svg"
   }
 }
