@@ -8,7 +8,7 @@ To use, simply set the icon in the class using the `sp-icon-` prefix:
 
 ```php
     //In Elements:
-    private static $icon = 'sp-icon-news';
+    private static $icon = 'sp-icon-news-element';
 
     //In Admins:
     private static $menu_icon_class = 'sp-icon-news-admin';
