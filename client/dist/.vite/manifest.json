@@ -4,12 +4,64 @@
     "isEntry": true,
     "src": "client/src/bundles/bundle.scss"
   },
-  "client/src/styles/grid.svg": {
-    "file": "styles/grid.svg",
-    "src": "client/src/styles/grid.svg"
+  "client/src/icons/calendar-admin.svg": {
+    "file": "styles/calendar-admin.svg",
+    "src": "client/src/icons/calendar-admin.svg"
   },
-  "client/src/styles/mediagrid.svg": {
-    "file": "styles/mediagrid.svg",
-    "src": "client/src/styles/mediagrid.svg"
+  "client/src/icons/calendar-element.svg": {
+    "file": "styles/calendar-element.svg",
+    "src": "client/src/icons/calendar-element.svg"
+  },
+  "client/src/icons/calendar-page.svg": {
+    "file": "styles/calendar-page.svg",
+    "src": "client/src/icons/calendar-page.svg"
+  },
+  "client/src/icons/grid-admin.svg": {
+    "file": "styles/grid-admin.svg",
+    "src": "client/src/icons/grid-admin.svg"
+  },
+  "client/src/icons/grid-element.svg": {
+    "file": "styles/grid-element.svg",
+    "src": "client/src/icons/grid-element.svg"
+  },
+  "client/src/icons/grid-page.svg": {
+    "file": "styles/grid-page.svg",
+    "src": "client/src/icons/grid-page.svg"
+  },
+  "client/src/icons/mediagrid-admin.svg": {
+    "file": "styles/mediagrid-admin.svg",
+    "src": "client/src/icons/mediagrid-admin.svg"
+  },
+  "client/src/icons/mediagrid-element.svg": {
+    "file": "styles/mediagrid-element.svg",
+    "src": "client/src/icons/mediagrid-element.svg"
+  },
+  "client/src/icons/mediagrid-page.svg": {
+    "file": "styles/mediagrid-page.svg",
+    "src": "client/src/icons/mediagrid-page.svg"
+  },
+  "client/src/icons/medialist-element.svg": {
+    "file": "styles/medialist-element.svg",
+    "src": "client/src/icons/medialist-element.svg"
+  },
+  "client/src/icons/medialist-page.svg": {
+    "file": "styles/medialist-page.svg",
+    "src": "client/src/icons/medialist-page.svg"
+  },
+  "client/src/icons/subpages-admin.svg": {
+    "file": "styles/subpages-admin.svg",
+    "src": "client/src/icons/subpages-admin.svg"
+  },
+  "client/src/icons/subpages-element.svg": {
+    "file": "styles/subpages-element.svg",
+    "src": "client/src/icons/subpages-element.svg"
+  },
+  "client/src/icons/subpages-page.svg": {
+    "file": "styles/subpages-page.svg",
+    "src": "client/src/icons/subpages-page.svg"
+  },
+  "client/src/icons/team-page.svg": {
+    "file": "styles/team-page.svg",
+    "src": "client/src/icons/team-page.svg"
   }
 }

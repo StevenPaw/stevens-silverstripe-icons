@@ -1,20 +1,31 @@
 {
     "name": "stevenpaw/stevens-silverstripe-icons",
-    "description": "Some more icons for SilverStripe Elemental",
+    "description": "A whole Set of new icons for SilverStripe CMS",
     "type": "silverstripe-vendormodule",
     "keywords": [
         "silverstripe",
         "Icons",
         "Elemental",
-        "Steven"
+        "Admin",
+        "Pages",
+        "Steven",
+        "SP"
     ],
     "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Steffen Kahl",
+            "homepage": "https://www.steffenkahl.com/",
+            "role": "Developer & Designer"
+        }
+    ],
     "require": {},
     "extra": {
         "expose": [
             "client/dist"
         ]
     },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    "support": {
+        "issues": "https://github.com/StevenPaw/stevens-silverstripe-icons/issues"
+    }
 }

@@ -1,10 +1,9 @@
-// Icons List - Füge hier einfach neue Icons hinzu
+// Icons List - Füge hier nur den Hauptnamen hinzu (automatisch werden -element, -page, -admin Varianten erstellt)
 $icons: (
+    'empty',
     'verticalmedia',
     'slider',
     'team',
-    'team-page',
-    'team-admin',
     'textimage',
     'hero',
     'calltoaction',
@@ -16,14 +15,10 @@ $icons: (
     'fullwidth',
     'calendar',
     'tutorial',
-    'tutorial-page',
-    'tutorial-admin',
     'person',
     'horizontalmedia',
     'medialist',
     'news',
-    'news-page',
-    'news-admin',
     'subpages',
     'security',
     'box',
@@ -32,55 +27,53 @@ $icons: (
     'teaser',
     'wordlist',
     'institution',
-    'institution-page',
-    'institution-admin',
     'grid',
     'mediagrid',
     'video',
     'map',
-    'map-admin',
-    'map-page',
     'marker',
-    'marker-admin',
-    'marker-page',
     'crown',
-    'crown-admin',
-    'crown-page',
     'cards',
-    'cards-admin',
-    'cards-page',
+    'star',
 );
+
+// Icon Varianten
+$icon-variants: ('element', 'page', 'admin');
 
 // Icon Generator Loop
 @each $icon in $icons {
-    .popover-option-set button.stevens-icon-#{$icon}::before,
-    i.stevens-icon-#{$icon},
-    .menu__icon.stevens-icon-#{$icon} {
-        content: "";
-        display: inline-block;
-        width: 28px;
-        height: 28px;
-        background: url('../styles/#{$icon}.svg');
-        vertical-align: middle;
-    }
+    @each $variant in $icon-variants {
+        $icon-name: #{$icon}-#{$variant};
 
-    .menu__icon.stevens-icon-#{$icon} {
-        width: 19px;
-        height: 19px;
-        background-size: 19px 19px;
-    }
+        .popover-option-set button.sp-icon-#{$icon-name}::before,
+        i.sp-icon-#{$icon-name},
+        .menu__icon.sp-icon-#{$icon-name} {
+            content: "";
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: url('../icons/#{$icon-name}.svg');
+            vertical-align: middle;
+        }
 
-    .menu__icon.stevens-icon-#{$icon}-currentColor {
-        width: 19px;
-        height: 19px;
-        background-size: 19px 19px;
-        mask-image: url('../styles/#{$icon}.svg');
-        mask-size: 100% 100%;
-        mask-repeat: no-repeat;
-        background-color: currentColor;
-    }
+        .menu__icon.sp-icon-#{$icon-name} {
+            width: 19px;
+            height: 19px;
+            background-size: 19px 19px;
+        }
 
-    .record-icon.stevens-icon-#{$icon} {
-        background-image: url('../styles/#{$icon}.svg');
+        .menu__icon.sp-icon-#{$icon-name}-currentColor {
+            width: 19px;
+            height: 19px;
+            background-size: 19px 19px;
+            mask-image: url('../icons/#{$icon-name}.svg');
+            mask-size: 100% 100%;
+            mask-repeat: no-repeat;
+            background-color: currentColor;
+        }
+
+        .record-icon.sp-icon-#{$icon-name} {
+            background-image: url('../icons/#{$icon-name}.svg');
+        }
     }
 }
