@@ -28,6 +28,10 @@
     "file": "styles/grid-page.svg",
     "src": "client/src/icons/grid-page.svg"
   },
+  "client/src/icons/idea-page.svg": {
+    "file": "styles/idea-page.svg",
+    "src": "client/src/icons/idea-page.svg"
+  },
   "client/src/icons/mediagrid-admin.svg": {
     "file": "styles/mediagrid-admin.svg",
     "src": "client/src/icons/mediagrid-admin.svg"
