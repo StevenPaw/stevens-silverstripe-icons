@@ -53,6 +53,7 @@ $icon-variants: ('element', 'page', 'admin');
 
         .popover-option-set button.sp-icon-#{$icon-name}::before,
         i.sp-icon-#{$icon-name},
+        span.sp-icon-#{$icon-name},
         .menu__icon.sp-icon-#{$icon-name} {
             content: "";
             display: inline-block;
@@ -60,6 +61,16 @@ $icon-variants: ('element', 'page', 'admin');
             height: 28px;
             background: url('../icons/#{$icon-name}.svg');
             vertical-align: middle;
+        }
+
+        .btn__icon.font-icon-sp-icon-#{$icon-name}:before {
+            content: "";
+            display: inline-block;
+            width: 28px;
+            height: 28px;
+            background: url('../icons/#{$icon-name}.svg');
+            vertical-align: middle;
+            margin-right: .76925rem;
         }
 
         .menu__icon.sp-icon-#{$icon-name} {
