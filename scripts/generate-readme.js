@@ -29,8 +29,7 @@ function extractIcons() {
         .split(',')
         .map(line => line.trim())
         .filter(line => line.length > 0)
-        .map(line => line.replace(/['"]/g, ''))
-        .filter(icon => icon !== 'empty'); // 'empty' Icon ausschließen
+        .map(line => line.replace(/['"]/g, ''));
 
     return icons;
 }
