@@ -107,6 +107,8 @@ $icon-variants: ('element', 'page', 'admin');
         }
 
         .record-icon.sp-icon-#{$icon-name} {
+            width: 18px;
+            height: 18px;
             background-image: url('../icons/#{$icon-name}.svg');
         }
     }
