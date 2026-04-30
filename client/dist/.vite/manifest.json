@@ -28,6 +28,10 @@
     "file": "styles/counter-page.svg",
     "src": "client/src/icons/counter-page.svg"
   },
+  "client/src/icons/district-page.svg": {
+    "file": "styles/district-page.svg",
+    "src": "client/src/icons/district-page.svg"
+  },
   "client/src/icons/documentlist-admin.svg": {
     "file": "styles/documentlist-admin.svg",
     "src": "client/src/icons/documentlist-admin.svg"
@@ -92,6 +96,10 @@
     "file": "styles/link-page.svg",
     "src": "client/src/icons/link-page.svg"
   },
+  "client/src/icons/material-page.svg": {
+    "file": "styles/material-page.svg",
+    "src": "client/src/icons/material-page.svg"
+  },
   "client/src/icons/mediagrid-admin.svg": {
     "file": "styles/mediagrid-admin.svg",
     "src": "client/src/icons/mediagrid-admin.svg"
@@ -119,6 +127,14 @@
   "client/src/icons/partner-page.svg": {
     "file": "styles/partner-page.svg",
     "src": "client/src/icons/partner-page.svg"
+  },
+  "client/src/icons/project-element.svg": {
+    "file": "styles/project-element.svg",
+    "src": "client/src/icons/project-element.svg"
+  },
+  "client/src/icons/project-page.svg": {
+    "file": "styles/project-page.svg",
+    "src": "client/src/icons/project-page.svg"
   },
   "client/src/icons/subpages-admin.svg": {
     "file": "styles/subpages-admin.svg",
