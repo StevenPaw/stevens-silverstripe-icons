@@ -19,7 +19,7 @@ To use, simply set the icon in the class using the `sp-icon-` prefix:
 
 ## Colored Icons
 
-There is also the option to use colored icons by adding the `-colored` suffix to the class name, e.g. `sp-icon-news-element-colored`. These are currently only tested in the CMS-Sidebar for use with the CMS Theme Module for example.
+There is also the option to use colored icons by adding the `-currentColor` suffix to the class name, e.g. `sp-icon-news-element-currentColor`. These are currently only tested in the CMS-Sidebar for use with the CMS Theme Module for example.
 
 ## Available icons
 
