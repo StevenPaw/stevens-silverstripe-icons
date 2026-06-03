@@ -2,6 +2,11 @@
 
 This module adds a set of new icons to use in the Sivlerstripe CMS as Elemental Icons, Page Icons or Admin Icons.
 
+## Installation
+
+To install, use composer:
+```composer require stevenpaw/stevens-silverstripe-icons```
+
 ## How to use
 
 To use, simply set the icon in the class using the `sp-icon-` prefix:
