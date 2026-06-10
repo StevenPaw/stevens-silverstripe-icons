@@ -96,6 +96,10 @@ $icon-variants: ('element', 'page', 'admin');
             margin-right: .76925rem;
         }
 
+        .btn__icon.sp-icon-#{$icon-name} {
+            margin-right: .76925rem;
+        }
+
         .menu__icon.sp-icon-#{$icon-name} {
             width: 19px;
             height: 19px;
