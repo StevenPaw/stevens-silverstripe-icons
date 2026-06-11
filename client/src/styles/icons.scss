@@ -100,9 +100,9 @@ $icon-variants: ('element', 'page', 'admin');
             margin-right: .76925rem;
         }
 
-        //For Elemental Icons:
-        .btn__icon.sp-icon-#{$icon-name} {
-            margin-right: 5px;
+        //For Elemental Icons: needs higher specificity to override .popover-option-set .popover-option-set__button .btn__icon { margin-right: 0 }
+        .popover-option-set__button .btn__icon.sp-icon-#{$icon-name} {
+            margin-right: .76925rem;
         }
 
         .menu__icon.sp-icon-#{$icon-name} {

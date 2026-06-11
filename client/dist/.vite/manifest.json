@@ -16,6 +16,18 @@
     "file": "styles/calendar-page.svg",
     "src": "client/src/icons/calendar-page.svg"
   },
+  "client/src/icons/cashregister-admin.svg": {
+    "file": "styles/cashregister-admin.svg",
+    "src": "client/src/icons/cashregister-admin.svg"
+  },
+  "client/src/icons/cashregister-element.svg": {
+    "file": "styles/cashregister-element.svg",
+    "src": "client/src/icons/cashregister-element.svg"
+  },
+  "client/src/icons/cashregister-page.svg": {
+    "file": "styles/cashregister-page.svg",
+    "src": "client/src/icons/cashregister-page.svg"
+  },
   "client/src/icons/counter-admin.svg": {
     "file": "styles/counter-admin.svg",
     "src": "client/src/icons/counter-admin.svg"
@@ -120,6 +132,10 @@
     "file": "styles/medialist-page.svg",
     "src": "client/src/icons/medialist-page.svg"
   },
+  "client/src/icons/money-page.svg": {
+    "file": "styles/money-page.svg",
+    "src": "client/src/icons/money-page.svg"
+  },
   "client/src/icons/partner-element.svg": {
     "file": "styles/partner-element.svg",
     "src": "client/src/icons/partner-element.svg"
@@ -135,6 +151,10 @@
   "client/src/icons/project-page.svg": {
     "file": "styles/project-page.svg",
     "src": "client/src/icons/project-page.svg"
+  },
+  "client/src/icons/statistics-page.svg": {
+    "file": "styles/statistics-page.svg",
+    "src": "client/src/icons/statistics-page.svg"
   },
   "client/src/icons/subpages-admin.svg": {
     "file": "styles/subpages-admin.svg",
