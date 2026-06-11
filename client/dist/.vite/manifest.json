@@ -152,6 +152,10 @@
     "file": "styles/project-page.svg",
     "src": "client/src/icons/project-page.svg"
   },
+  "client/src/icons/speaker-page.svg": {
+    "file": "styles/speaker-page.svg",
+    "src": "client/src/icons/speaker-page.svg"
+  },
   "client/src/icons/statistics-page.svg": {
     "file": "styles/statistics-page.svg",
     "src": "client/src/icons/statistics-page.svg"
