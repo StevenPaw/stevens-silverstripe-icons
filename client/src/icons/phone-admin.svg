@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-0,-9700)">
+        <g id="phone-admin" transform="matrix(1,0,0,1,0,9700)">
+            <rect x="0" y="0" width="500" height="500" style="fill:none;"/>
+            <g id="Telephone" transform="matrix(1.312281,0,0,1.312281,17.579968,18.746726)">
+                <g id="Telephone1" serif:id="Telephone">
+                    <path id="Telephone2" serif:id="Telephone" d="M242.732,228.429C270.253,233.047 298.195,288.569 300.891,292.772C308.837,305.158 302.343,320.886 292.438,330.258C221.93,396.968 76.984,259.725 49.662,128.131C28.27,25.101 87.543,2.39 108.599,4.954C131.975,7.8 162.114,86.346 159.533,96.815C152.313,126.103 120.538,123.286 123.055,129.645C139.613,171.487 197.076,249.161 199.56,247.909C207.311,244.004 215.211,223.812 242.732,228.429Z" style="fill:rgb(86,107,141);fill-opacity:1;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
