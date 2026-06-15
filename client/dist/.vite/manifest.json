@@ -28,6 +28,10 @@
     "file": "styles/cashregister-page.svg",
     "src": "client/src/icons/cashregister-page.svg"
   },
+  "client/src/icons/chat-page.svg": {
+    "file": "styles/chat-page.svg",
+    "src": "client/src/icons/chat-page.svg"
+  },
   "client/src/icons/counter-admin.svg": {
     "file": "styles/counter-admin.svg",
     "src": "client/src/icons/counter-admin.svg"
@@ -79,6 +83,10 @@
   "client/src/icons/formpages-page.svg": {
     "file": "styles/formpages-page.svg",
     "src": "client/src/icons/formpages-page.svg"
+  },
+  "client/src/icons/glossary-page.svg": {
+    "file": "styles/glossary-page.svg",
+    "src": "client/src/icons/glossary-page.svg"
   },
   "client/src/icons/grid-admin.svg": {
     "file": "styles/grid-admin.svg",
