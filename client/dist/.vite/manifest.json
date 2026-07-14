@@ -195,5 +195,9 @@
   "client/src/icons/virtual-page.svg": {
     "file": "styles/virtual-page.svg",
     "src": "client/src/icons/virtual-page.svg"
+  },
+  "client/src/icons/wifi-page.svg": {
+    "file": "styles/wifi-page.svg",
+    "src": "client/src/icons/wifi-page.svg"
   }
 }
